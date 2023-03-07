@@ -1,0 +1,34 @@
+Estatística: É um conjunto de métodos para coleta, organização, resumo, análise e interpretação dos dados para uma tomada de decisão. 
+
+Dado: sequência de símbolos que possa ser quantificáveis ou quantificados. 
+
+Informação: É uma abstração informal do que está na mente de alguém, representando algo significativo para essa pessoa.
+
+Conhecimento: Se refere a uma abstração interior, pessoal, de algo que foi experimentado, vivenciado, por alguém.
+
+População: Conjunto que contém todos os indivíduos, objetos ou elementos a serem estudados, que apresentam uma ou mais características em comum.
+
+Amostra: Subconjunto extraído da população para análise, devendo ser representativo daquele grupo. O processo de escolha de uma amostra da população é denominado de amostragem.
+
+Censo: Censo, ou recenseamento, é o estudo dos dados relativos a todos os elementos da população.
+
+Censo demográfico: 
+De acordo com IBGE, constitui a principal fonte de referência para o conhecimento das condições de vida da população em todos os municípios do País e em seus recortes territoriais internos, tendo como unidade de coleta a pessoa residente, na data de referência, em domicílio do Território Nacional.
+
+Estatística está dividida em três parte: 
+  - Estatística Descritiva = Coleta, organiza, apresenta e resume os dados através de medidas estatísticas. 
+  - Probabilidade = Analisa situações que envolvem o acaso.
+  - Estatística Inferencial = Analisa e interpreta os dados amostrais.
+  
+*Fases de um trabalho Estatístico*
+
+1. Planejamento da forma de coleta dos dados
+  • Origem dos dados: primários e secundários
+  • Censo ou amostragem
+2. Armazenamento dos dados
+  • Planilhas eletrônicas, banco de dados
+3. Resumo por meio de tabelas, gráficos e medidas estatísticas
+  • Identificação e correção de possíveis erros de coleta e/ou digitação
+4. Análise e interpretação dos dados
+5. Elaboração de um relatório
+6. Apresentação dos resultados
